@@ -80,6 +80,6 @@ results = {
     "grouped_cv_r2_mean": r2_grouped, "grouped_cv_r2_std": r2_grouped_std,
     "grouped_cv_folds": fold_metrics,
 }
-with open(f"{OUT}/v2_composition_grouped_cv.json", "w") as f:
+with open(f"{OUT}/composition_grouped_cv.json", "w") as f:
     json.dump(results, f, indent=2)
-print("\nSaved models/crossdb/v2_composition_grouped_cv.json")
+print("\nSaved models/crossdb/composition_grouped_cv.json")

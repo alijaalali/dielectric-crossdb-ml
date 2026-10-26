@@ -93,6 +93,6 @@ for i, thr in enumerate(THRESHOLDS):
         "diff_other": ext_non - int_non, "ci95_other": ci_non,
     }
 
-with open(f"{OUT}/v4_threshold_sensitivity.json", "w") as f:
+with open(f"{OUT}/threshold_sensitivity.json", "w") as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved {OUT}/v4_threshold_sensitivity.json")
+print(f"\nSaved {OUT}/threshold_sensitivity.json")

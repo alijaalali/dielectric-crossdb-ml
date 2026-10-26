@@ -49,7 +49,7 @@ def main():
         "heldout_corrected_mean_offset": {"mae": float(mae_hold_corrected_mean), "rmse": float(rmse_hold_corrected_mean)},
         "heldout_corrected_median_offset": {"mae": float(mae_hold_corrected_median), "rmse": float(rmse_hold_corrected_median)},
     }
-    with open(OUT / "v3_offset_calibration_split.json", "w") as fh:
+    with open(OUT / "offset_calibration_split.json", "w") as fh:
         json.dump(out, fh, indent=2)
     print(json.dumps(out, indent=2))
 

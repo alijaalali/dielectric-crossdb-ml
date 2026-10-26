@@ -108,7 +108,7 @@ def main():
 
     out["results"] = results
 
-    with open(OUT / "v3_dedup_fix.json", "w") as fh:
+    with open(OUT / "dedup_fix.json", "w") as fh:
         json.dump(out, fh, indent=2)
 
     print(json.dumps(out, indent=2))

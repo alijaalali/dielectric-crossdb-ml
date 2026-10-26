@@ -62,7 +62,7 @@ def main():
     nm = extract(near_metal_ids, "near_metallic")
     non = extract(non_metal_ids, "non_near_metallic")
     both = pd.concat([nm, non], ignore_index=True)
-    both.to_csv(OUT / "v3_nearmetal_metadata_detail.csv", index=False)
+    both.to_csv(OUT / "nearmetal_metadata_detail.csv", index=False)
 
     out = {"n_near_metal_matched": int(len(nm)), "n_non_metal_matched": int(len(non))}
 
@@ -99,7 +99,7 @@ def main():
     out["median_encut_near_metal"] = float(nm["encut"].dropna().median()) if nm["encut"].notna().any() else None
     out["median_encut_non_metal"] = float(non["encut"].dropna().median()) if non["encut"].notna().any() else None
 
-    with open(OUT / "v3_nearmetal_metadata.json", "w") as fh:
+    with open(OUT / "nearmetal_metadata.json", "w") as fh:
         json.dump(out, fh, indent=2)
     print(json.dumps(out, indent=2))
 

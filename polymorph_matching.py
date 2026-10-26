@@ -68,9 +68,9 @@ def main():
         "label_counts": counts,
         "mae_by_polymorph_label": err_by_label,
     }
-    with open(OUT / "v3_polymorph_matching.json", "w") as fh:
+    with open(OUT / "polymorph_matching.json", "w") as fh:
         json.dump(out, fh, indent=2)
-    df.to_csv(OUT / "v3_polymorph_matching_detail.csv", index=False)
+    df.to_csv(OUT / "polymorph_matching_detail.csv", index=False)
     print(json.dumps(out, indent=2))
 
 

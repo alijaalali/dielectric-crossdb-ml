@@ -48,7 +48,7 @@ def main():
         }
         print(f"n={n}: R2={np.mean(r2s):.3f}+-{np.std(r2s):.3f}  MAE={np.mean(maes):.3f}+-{np.std(maes):.3f}")
 
-    with open(OUT / "v3_learning_curve_multiseed.json", "w") as fh:
+    with open(OUT / "learning_curve_multiseed.json", "w") as fh:
         json.dump(results, fh, indent=2)
 
 

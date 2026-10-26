@@ -50,7 +50,7 @@ def main():
         paired.to_csv(OUT / f"overlap_paired_compounds_{comp}.csv")
         print(comp, out[comp])
 
-    with open(OUT / "v2_overlap_components.json", "w") as fh:
+    with open(OUT / "overlap_components.json", "w") as fh:
         json.dump(out, fh, indent=2)
 
 

@@ -95,6 +95,6 @@ results = {
     "paired_bootstrap_diff_non_metal": {"mean": mean_diff_non, "ci95": ci_non},
     "n_boot": N_BOOT,
 }
-with open(f"{OUT}/v2_nearmetal_paired_bootstrap.json", "w") as f:
+with open(f"{OUT}/nearmetal_paired_bootstrap.json", "w") as f:
     json.dump(results, f, indent=2)
-print("\nSaved models/crossdb/v2_nearmetal_paired_bootstrap.json")
+print("\nSaved models/crossdb/nearmetal_paired_bootstrap.json")

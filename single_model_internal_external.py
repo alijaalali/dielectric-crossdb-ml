@@ -98,6 +98,6 @@ results = {
     "mp_held_target_stratified": mp_held_target_strat,
     "jarvis_target_stratified": jv_target_strat,
 }
-with open(f"{OUT}/v2_single_model_internal_external.json", "w") as f:
+with open(f"{OUT}/single_model_internal_external.json", "w") as f:
     json.dump(results, f, indent=2)
-print("\nSaved models/crossdb/v2_single_model_internal_external.json")
+print("\nSaved models/crossdb/single_model_internal_external.json")

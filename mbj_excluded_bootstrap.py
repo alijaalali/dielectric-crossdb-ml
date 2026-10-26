@@ -52,7 +52,7 @@ abs_err_internal = np.abs(pred_internal - yte_j)
 abs_err_external = np.abs(pred_external_on_held_out - yte_j)
 near_metal = bg_held_out < 0.1
 
-meta = pd.read_csv(f"{OUT}/v3_nearmetal_metadata_detail.csv")
+meta = pd.read_csv(f"{OUT}/nearmetal_metadata_detail.csv")
 meta_nm = meta[meta["set"] == "near_metallic"].set_index("jid")
 
 mbj_gap = np.array([
@@ -98,6 +98,6 @@ for label, mask, seed in [
     results[label] = {"n": n, "internal_mae": int_mae, "external_mae": ext_mae,
                        "diff": ext_mae - int_mae, "ci95": ci}
 
-with open(f"{OUT}/v4_mbj_excluded_bootstrap.json", "w") as f:
+with open(f"{OUT}/mbj_excluded_bootstrap.json", "w") as f:
     json.dump(results, f, indent=2)
-print(f"\nSaved {OUT}/v4_mbj_excluded_bootstrap.json")
+print(f"\nSaved {OUT}/mbj_excluded_bootstrap.json")

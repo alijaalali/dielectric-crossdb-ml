@@ -15,7 +15,7 @@ OUT = PROJ / "models" / "crossdb"
 def main():
     pred = pd.read_csv(OUT / "predictions_mp_to_jarvis_etotal.csv")
     raw = pd.DataFrame(json.load(open(DATA / "jarvis_dielectric_raw.json")))
-    meta = pd.read_csv(OUT / "v3_nearmetal_metadata_detail.csv")
+    meta = pd.read_csv(OUT / "nearmetal_metadata_detail.csv")
 
     df = pred.merge(raw[["jid", "e_total", "e_electronic", "e_ionic"]], on="jid", how="left")
     df = df.merge(meta[["jid", "mbj_bandgap", "magmom_outcar"]], on="jid", how="left")
@@ -27,7 +27,7 @@ def main():
 
     cols = ["jid", "formula", "optb88vdw_bandgap", "mbj_bandgap", "magmom_outcar",
             "e_total", "e_electronic", "e_ionic", "pred_e_total", "abs_err_log10"]
-    top10[cols].to_csv(OUT / "v3_nearmetal_top10_table.csv", index=False)
+    top10[cols].to_csv(OUT / "nearmetal_top10_table.csv", index=False)
     print(top10[cols].to_string(index=False))
 
 

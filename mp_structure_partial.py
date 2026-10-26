@@ -88,7 +88,7 @@ def main():
     overlap_formulas = set(merged["reduced_formula"]) & set(jv["reduced_formula"])
     out["n_structure_covered_overlap_formulas"] = len(overlap_formulas)
 
-    with open(OUT / "v3_mp_structure_partial.json", "w") as fh:
+    with open(OUT / "mp_structure_partial.json", "w") as fh:
         json.dump(out, fh, indent=2)
     print(json.dumps(out, indent=2))
 

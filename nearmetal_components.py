@@ -72,9 +72,9 @@ for target, eps in [("e_electronic", 0.0), ("e_ionic", 0.01)]:
     print(f"  non-metal  (n={n_non}): MAE={mae_non:.3f} R2={r2_non:.3f}")
     print(f"  near-metal share of total abs error: {frac_err_nm:.1f}%")
 
-v1 = json.load(open(f"{OUT}/v1_revision_results.json"))
-results["e_total_reference"] = v1.get("near_metallic_split", v1.get("nearmetal", {}))
+ref_results = json.load(open(f"{OUT}/revision_analysis_results.json"))
+results["e_total_reference"] = ref_results.get("near_metallic_split", ref_results.get("nearmetal", {}))
 
-with open(f"{OUT}/v2_nearmetal_components.json", "w") as f:
+with open(f"{OUT}/nearmetal_components.json", "w") as f:
     json.dump(results, f, indent=2)
-print("\nSaved models/crossdb/v2_nearmetal_components.json")
+print("\nSaved models/crossdb/nearmetal_components.json")

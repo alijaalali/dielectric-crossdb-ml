@@ -375,6 +375,6 @@ results["residual_analysis"] = {
 log(f"  median residual={np.median(res):.3f}, MAD={results['residual_analysis']['mad_residual']:.3f}, "
     f"Spearman(residual,bandgap)={results['residual_analysis']['spearman_residual_vs_bandgap']:.3f}")
 
-with open(OUT / "v1_revision_results.json", "w") as f:
+with open(OUT / "revision_analysis_results.json", "w") as f:
     json.dump(results, f, indent=2, default=str)
-log("DONE - saved models/crossdb/v1_revision_results.json")
+log("DONE - saved models/crossdb/revision_analysis_results.json")
