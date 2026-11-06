@@ -1,0 +1,78 @@
+{
+  "0.05": {
+    "threshold_eV": 0.05,
+    "n_near_metal": 78,
+    "n_other": 864,
+    "internal_mae_near_metal": 0.42214512940813037,
+    "external_mae_near_metal": 0.6996894205735535,
+    "diff_near_metal": 0.2775442911654232,
+    "ci95_near_metal": [
+      0.1923393960478364,
+      0.3679484204529612
+    ],
+    "internal_mae_other": 0.19370939707735094,
+    "external_mae_other": 0.17980161710125026,
+    "diff_other": -0.013907779976100682,
+    "ci95_other": [
+      -0.025545403445722127,
+      -0.0021169648724651134
+    ]
+  },
+  "0.1": {
+    "threshold_eV": 0.1,
+    "n_near_metal": 82,
+    "n_other": 860,
+    "internal_mae_near_metal": 0.42959627733273886,
+    "external_mae_near_metal": 0.7072478760216268,
+    "diff_near_metal": 0.2776515986888879,
+    "ci95_near_metal": [
+      0.19562015877111646,
+      0.36178985687734744
+    ],
+    "internal_mae_other": 0.1919364470085823,
+    "external_mae_other": 0.17666284435633023,
+    "diff_other": -0.015273602652252083,
+    "ci95_other": [
+      -0.026671846518466498,
+      -0.0035805545209462836
+    ]
+  },
+  "0.2": {
+    "threshold_eV": 0.2,
+    "n_near_metal": 99,
+    "n_other": 843,
+    "internal_mae_near_metal": 0.39740188458381803,
+    "external_mae_near_metal": 0.6282658249478034,
+    "diff_near_metal": 0.23086394036398533,
+    "ci95_near_metal": [
+      0.15569533502664487,
+      0.3072980403199339
+    ],
+    "internal_mae_other": 0.1909246175502579,
+    "external_mae_other": 0.17523849977507103,
+    "diff_other": -0.015686117775186886,
+    "ci95_other": [
+      -0.027370312360344002,
+      -0.003977980373240518
+    ]
+  },
+  "0.5": {
+    "threshold_eV": 0.5,
+    "n_near_metal": 148,
+    "n_other": 794,
+    "internal_mae_near_metal": 0.3306191426133013,
+    "external_mae_near_metal": 0.49414249023287715,
+    "diff_near_metal": 0.16352334761957588,
+    "ci95_near_metal": [
+      0.10688709959850179,
+      0.2188390962375925
+    ],
+    "internal_mae_other": 0.1906304862240514,
+    "external_mae_other": 0.17228121338255867,
+    "diff_other": -0.018349272841492736,
+    "ci95_other": [
+      -0.030246069357289646,
+      -0.006638332965063074
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+reduced_formula,mp_spgs,jv_spgs,label
+Ag2HgI4,[111],"[82, 111]",ambiguous_multi
+Ag2S,[36],"[1, 11, 63]",ambiguous_multi
+Ag2Se,[62],[62],single_matching
+AgAsF6,[225],[225],single_matching
+AgI,"[186, 216]","[129, 186, 216, 225]",ambiguous_multi
+Al2CdS4,[82],[82],single_matching
+Al2CdSe4,[82],[82],single_matching
+Al2CdTe4,[82],[82],single_matching
+Al2HgSe4,[82],[82],single_matching
+Al2HgTe4,[82],[82],single_matching
+Al2O3,[12],"[36, 43, 167]",ambiguous_multi
+Al2Se3,[9],[9],single_matching
+Al2Te5,[12],[12],single_matching
+Al2ZnSe4,[82],[82],single_matching
+Al2ZnTe4,[82],[82],single_matching
+Al4C3,[166],[166],single_matching
+AlAgO2,[194],"[33, 160, 194]",ambiguous_multi
+AlAgS2,[122],"[122, 156, 160]",ambiguous_multi
+AlAgSe2,[122],[122],single_matching
+AlAgTe2,[122],[122],single_matching
+AlAs,[186],"[186, 216]",ambiguous_multi
+AlAsO4,[82],[152],single_different
+AlCl3,[12],[12],single_matching
+AlCuO2,"[166, 194]","[166, 194]",ambiguous_multi
+AlCuS2,[122],"[122, 160]",ambiguous_multi
+AlCuTe2,[122],[122],single_matching
+AlF3,[167],"[2, 63, 167, 221]",ambiguous_multi
+AlH3,[167],[167],single_matching
+AlP,[186],"[127, 186, 216]",ambiguous_multi
+AlPO4,[82],"[4, 20, 63, 82, 152, 154, 181]",ambiguous_multi
+AlTlF4,[123],[123],single_matching
+As2O3,"[14, 227]",[14],ambiguous_multi
+As2PbO6,[162],[162],single_matching
+AsCl3,[19],[19],single_matching
+AsCl5,[59],[59],single_matching
+AsF3,[33],[33],single_matching
+AuBr,[138],[138],single_matching
+AuCl,[141],[141],single_matching
+AuI,[138],[138],single_matching
+AuSe,[12],[12],single_matching
+B2O3,[152],"[36, 152]",ambiguous_multi
+BAsO4,[82],"[82, 152]",ambiguous_multi
+BBr3,[176],[176],single_matching
+BCl3,[176],[176],single_matching
+BI3,[176],[176],single_matching
+BN,"[160, 187, 194]","[8, 9, 14, 42, 62, 136, 139, 160, 186, 187, 194, 216]",ambiguous_multi
+BP,[216],"[186, 216]",ambiguous_multi
+BPO4,[82],[82],single_matching
+BPS4,[23],[23],single_matching
+Ba(AgS)2,[164],[164],single_matching
+Ba(CdP)2,[164],[164],single_matching
+Ba(CuS)2,[139],[139],single_matching
+Ba(GaTe2)2,[97],[97],single_matching
+Ba(InTe2)2,[97],[97],single_matching
+Ba(MgAs)2,[164],[164],single_matching
+Ba(MgBi)2,[164],[164],single_matching
+Ba(MgP)2,[164],[164],single_matching
+Ba(MgSb)2,[164],[164],single_matching
+Ba2H6Os,[225],[225],single_matching
+Ba2H6Ru,[225],[225],single_matching
+Ba2SbAu,[225],[225],single_matching
+BaHI,[129],[129],single_matching
+BaHfN2,[129],[129],single_matching
+BaHgO2,[166],[166],single_matching
+BaI2,[189],[189],single_matching
+BaLiAs,[187],[187],single_matching
+BaLiH3,[221],[221],single_matching
+BaNaP,[189],[189],single_matching
+BaO2,[139],"[65, 139]",ambiguous_multi
+BaP3,[12],[12],single_matching
+BaS,[225],[225],single_matching
+BaS2,[15],[15],single_matching
+BaS3,[113],"[18, 113]",ambiguous_multi
+BaSe,[225],"[221, 225]",ambiguous_multi
+BaSe3,[113],[113],single_matching
+BaSiF6,[166],[166],single_matching
+BaSnF6,[148],[148],single_matching
+BaTe2,[140],[140],single_matching
+BaTiO3,[99],"[38, 99, 160, 221]",ambiguous_multi
+Be2C,[225],[225],single_matching
+BeBr2,[72],[72],single_matching
+BeCN2,[122],[122],single_matching
+BeCl2,[72],[72],single_matching
+BeF2,"[152, 180]","[5, 65, 152, 180]",ambiguous_multi
+BeI2,[72],[72],single_matching
+BeO,[216],"[136, 186, 216, 225]",ambiguous_multi
+BeS,[216],[216],single_matching
+BeSe,[216],"[194, 216]",ambiguous_multi
+BeSiN2,[122],[122],single_matching
+BeTe,[216],[216],single_matching
+Bi2SO2,[58],[58],single_matching
+BiBrO,[129],[129],single_matching
+BiF3,[62],"[194, 225]",ambiguous_multi
+BiOF,[129],"[129, 166]",ambiguous_multi
+BiTeCl,[186],[186],single_matching
+BiTeI,[156],[156],single_matching
+BrF3,[36],[36],single_matching
+BrF5,[36],[36],single_matching
+CClF3,[36],[36],single_matching
+CO2,[205],"[14, 136, 205]",ambiguous_multi
+Ca(AsO3)2,[162],[162],single_matching
+Ca(CdP)2,[164],[164],single_matching
+Ca(MgAs)2,[164],[164],single_matching
+Ca(MgBi)2,[164],[164],single_matching
+Ca(MgSb)2,[164],[164],single_matching
+Ca(SbO3)2,[162],[31],single_different
+Ca(ZnP)2,[164],[164],single_matching
+Ca2AsI,[166],[166],single_matching
+Ca2BrN,[166],[166],single_matching
+Ca2Ge,[62],[225],single_different
+Ca2IN,[194],[194],single_matching
+Ca2NCl,[166],[166],single_matching
+Ca2Si,[62],[225],single_different
+Ca2SnS4,[65],"[12, 20, 55, 65, 82, 189]",ambiguous_multi
+Ca3AsBr3,[221],[221],single_matching
+Ca3AsCl3,[221],[221],single_matching
+Ca3AsN,[221],[221],single_matching
+Ca3CdO4,[65],[65],single_matching
+Ca3PN,[221],[221],single_matching
+Ca4P2O,[139],[139],single_matching
+CaBr2,[58],[58],single_matching
+CaCN2,[166],[166],single_matching
+CaCl2,[136],"[58, 136]",ambiguous_multi
+CaClF,[129],[129],single_matching
+CaH2,[62],[194],single_different
+CaHCl,[129],[129],single_matching
+CaHI,[129],[129],single_matching
+CaHgO2,[166],[166],single_matching
+CaMg2N2,[164],[164],single_matching
+CaO2,[139],"[12, 139]",ambiguous_multi
+CaP,[189],[189],single_matching
+CaPdF6,[148],[148],single_matching
+CaPtF6,[148],[148],single_matching
+CaS,[225],[225],single_matching
+CaSe,[225],"[216, 225]",ambiguous_multi
+CaSnF6,[225],[148],single_different
+CaTe,[225],[225],single_matching
+CaTiF6,[225],[225],single_matching
+Cd(GaS2)2,[82],[82],single_matching
+Cd(GaSe2)2,[82],[82],single_matching
+Cd(GaTe2)2,[82],[82],single_matching
+Cd(InSe2)2,"[82, 111, 121]","[82, 111, 121]",ambiguous_multi
+CdAs2,[98],[98],single_matching
+CdBr2,"[166, 186]","[166, 186]",ambiguous_multi
+CdCl2,[166],"[115, 164, 166]",ambiguous_multi
+CdF2,[225],[225],single_matching
+CdGeP2,[122],[122],single_matching
+CdI2,"[164, 166, 186]","[156, 164, 166, 186]",ambiguous_multi
+CdP2,[33],[33],single_matching
+CdPS3,[12],[12],single_matching
+CdPdF6,[148],[148],single_matching
+CdPtF6,[148],[148],single_matching
+CdS,[216],"[156, 186, 216]",ambiguous_multi
+CdSe,[216],"[186, 216]",ambiguous_multi
+CdSiP2,[122],[122],single_matching
+CdSnF6,[148],[148],single_matching
+CdTe,"[36, 186]","[152, 186, 216]",ambiguous_multi
+ClF,[14],[14],single_matching
+CoO,[186],[216],single_different
+CrCuO2,[166],[166],single_matching
+CsTaN2,[122],[122],single_matching
+Cu2HgI4,[111],"[111, 121]",ambiguous_multi
+Cu2WS4,[121],"[111, 121]",ambiguous_multi
+CuBS2,[122],[122],single_matching
+CuBr,[129],"[119, 129, 194, 216]",ambiguous_multi
+CuI,[164],"[63, 129, 156, 164, 186, 216]",ambiguous_multi
+CuRhO2,[166],[166],single_matching
+Fe(SiP)4,[1],[1],single_matching
+FeP4,[15],[20],single_different
+FeS2,"[58, 205]","[58, 166]",ambiguous_multi
+FeSi,[198],[198],single_matching
+Ga2HgS4,[82],[82],single_matching
+Ga2HgSe4,[82],[82],single_matching
+Ga2HgTe4,[82],[82],single_matching
+Ga2S3,[9],[9],single_matching
+Ga2Se3,[9],[9],single_matching
+Ga2Te3,[9],[9],single_matching
+Ga2TeSe2,[109],[109],single_matching
+GaAgO2,[194],"[166, 194]",ambiguous_multi
+GaAgS2,[122],[122],single_matching
+GaCuO2,"[166, 194]","[166, 194]",ambiguous_multi
+GaCuS2,[122],[122],single_matching
+GaF3,[167],[167],single_matching
+GaN,[216],"[186, 194, 216]",ambiguous_multi
+GaP,[186],"[166, 186, 216]",ambiguous_multi
+GaS,"[166, 194]","[166, 194]",ambiguous_multi
+GaSe,"[160, 194]","[160, 186, 187, 194]",ambiguous_multi
+Ge2N2O,[36],"[9, 36]",ambiguous_multi
+Ge3N4,[176],[220],single_different
+GeF2,[19],[19],single_matching
+GeF4,[217],[217],single_matching
+GeO2,"[92, 154]","[60, 92, 136, 152, 154]",ambiguous_multi
+H4BrN,[215],[215],single_matching
+H4NCl,[215],[215],single_matching
+HCl,[36],"[36, 107, 139]",ambiguous_multi
+HfCl4,[13],[13],single_matching
+HfNCl,[166],[166],single_matching
+HfO2,[14],"[29, 136, 137, 225]",ambiguous_multi
+HfS3,[11],[11],single_matching
+HfSe3,[11],[11],single_matching
+HfSnPd,[216],[216],single_matching
+HfVF6,[225],[225],single_matching
+Hg(AsO3)2,[162],[162],single_matching
+HgCl2,[62],[62],single_matching
+HgF2,[225],"[136, 225]",ambiguous_multi
+HgIBr,[36],[36],single_matching
+HgO,"[62, 152]","[62, 152]",ambiguous_multi
+HgPS3,[2],[2],single_matching
+HgS,[154],"[152, 154, 186, 216]",ambiguous_multi
+IBr,[63],[63],single_matching
+IF7,[41],[41],single_matching
+InAgS2,[122],[122],single_matching
+InBr3,[12],[12],single_matching
+InClO,[59],[59],single_matching
+InS,[58],[58],single_matching
+InSe,[160],"[12, 160, 194]",ambiguous_multi
+IrBr3,[12],[12],single_matching
+IrCl3,[12],[12],single_matching
+K2AgAs,[63],[63],single_matching
+K2AgP,[63],[63],single_matching
+K2AgSb,[63],[63],single_matching
+K2CuP,[63],[63],single_matching
+K2GeF6,[164],[164],single_matching
+K2H4Pd,[139],[139],single_matching
+K2HgO2,[139],[139],single_matching
+K2MgF4,[139],[139],single_matching
+K2MnF6,[225],[186],single_different
+K2NiF6,[225],[225],single_matching
+K2O,[225],"[36, 71, 166, 189, 225]",ambiguous_multi
+K2O2,[64],"[64, 189]",ambiguous_multi
+K2PAu,[63],[63],single_matching
+K2PdF4,[12],[12],single_matching
+K2PdF6,[164],[164],single_matching
+K2PdO2,[71],[71],single_matching
+K2PtBr6,[225],[225],single_matching
+K2PtCl6,[225],[225],single_matching
+K2PtF6,[164],[164],single_matching
+K2PtS2,[71],[71],single_matching
+K2ReBr6,[225],[225],single_matching
+K2ReF6,[164],[164],single_matching
+K2S,[225],[225],single_matching
+K2Se,[225],[225],single_matching
+K2SiF6,[225],[225],single_matching
+K2Sn2O3,[166],[166],single_matching
+K2Te,[225],[225],single_matching
+K2Te2Pt,[71],[71],single_matching
+K2TiF6,[164],[164],single_matching
+K2ZnF4,[139],[139],single_matching
+K3AuO,[221],[221],single_matching
+K3BrO,[221],[221],single_matching
+K3IO,[221],[221],single_matching
+K3SbS4,[217],[217],single_matching
+K4BeAs2,[166],[166],single_matching
+K4Br2O,[139],[139],single_matching
+K4CdP2,[166],[166],single_matching
+K4HgAs2,[166],[166],single_matching
+K4HgP2,[166],[166],single_matching
+K4I2O,[139],[139],single_matching
+K4ZnAs2,[166],[166],single_matching
+K4ZnP2,[166],[166],single_matching
+KAgSe,[129],[129],single_matching
+KAlF4,[123],"[11, 123, 127]",ambiguous_multi
+KAlTe2,[140],[140],single_matching
+KAsF6,[166],[148],single_different
+KAuF6,[166],[166],single_matching
+KAuO2,[47],"[47, 63]",ambiguous_multi
+KAuS,[63],[63],single_matching
+KAuSe,[63],[63],single_matching
+KBrO3,[160],[160],single_matching
+KCaBi,[129],[129],single_matching
+KCrS2,[166],[166],single_matching
+KH,[225],[225],single_matching
+KIO3,[160],[160],single_matching
+KLi2As,[59],[59],single_matching
+KLiS,[129],[129],single_matching
+KLiSe,[129],[129],single_matching
+KLiTe,[129],[129],single_matching
+KMgF3,[221],[221],single_matching
+KMgH3,[221],[221],single_matching
+KMgSb,[129],[129],single_matching
+KNO3,[160],"[155, 160]",ambiguous_multi
+KNa2Sb,[225],[225],single_matching
+KNaO,[129],[129],single_matching
+KNbO3,[99],"[38, 99, 160, 221]",ambiguous_multi
+KNbS2,[194],[194],single_matching
+KNbSe2,[194],[194],single_matching
+KP,[19],[19],single_matching
+KPF6,[148],"[148, 166]",ambiguous_multi
+KSc2F7,[65],[65],single_matching
+KSnAs,[186],[186],single_matching
+KSnSb,[186],[186],single_matching
+KTaO3,[221],[221],single_matching
+KTe,[189],[189],single_matching
+KTlO,[12],[12],single_matching
+KVF3,[221],[221],single_matching
+KYTe2,[166],[166],single_matching
+KZnAs,"[187, 194]",[187],ambiguous_multi
+KZnF3,[221],[221],single_matching
+KZnP,[194],[194],single_matching
+KZnSb,"[187, 194]",[187],ambiguous_multi
+LaOF,[129],[216],single_different
+Li2AgSb,[216],[216],single_matching
+Li2CuSb,[216],[216],single_matching
+Li2NiO2,[164],[71],single_different
+Li2S,[225],[225],single_matching
+Li2Se,[225],[225],single_matching
+Li2Te,[225],[225],single_matching
+Li3As,[194],[194],single_matching
+Li3Bi,[225],[225],single_matching
+Li3N,"[191, 194]","[191, 194]",ambiguous_multi
+Li3Sb,"[194, 225]","[194, 225]",ambiguous_multi
+Li3VS4,[215],[215],single_matching
+Li4NCl,[166],[166],single_matching
+LiAgF2,[194],"[7, 12, 33, 63, 141, 194]",ambiguous_multi
+LiAlO2,[166],"[92, 166]",ambiguous_multi
+LiAlSi,[216],[216],single_matching
+LiAsF6,[148],[148],single_matching
+LiBC,[194],[194],single_matching
+LiBO2,[122],[122],single_matching
+LiBeP,[129],[129],single_matching
+LiCaAs,[216],[216],single_matching
+LiCrS2,[164],[164],single_matching
+LiCuO2,[12],[8],single_different
+LiInSe2,[122],[122],single_matching
+LiInTe2,[122],[122],single_matching
+LiMgAs,[216],[216],single_matching
+LiMgBi,[216],[216],single_matching
+LiMgH3,[161],[161],single_matching
+LiMgN,[216],[216],single_matching
+LiMgP,[216],[216],single_matching
+LiN3,[12],[12],single_matching
+LiNbS2,[194],[194],single_matching
+LiPF6,[148],[148],single_matching
+LiYS2,[166],"[141, 166]",ambiguous_multi
+LiYSe2,"[141, 166]","[141, 166]",ambiguous_multi
+LiZnAs,[216],[216],single_matching
+LiZnN,[216],[216],single_matching
+LiZnP,[216],[216],single_matching
+LiZnSb,[186],[186],single_matching
+Mg(AlSe2)2,[166],[166],single_matching
+Mg(BeN)2,[164],[164],single_matching
+Mg(HO)2,[164],"[156, 164]",ambiguous_multi
+Mg2FeH6,[225],[225],single_matching
+Mg2H6Ru,[225],[225],single_matching
+Mg3NF3,[221],[221],single_matching
+MgAs4,[92],[92],single_matching
+MgBr2,[164],[164],single_matching
+MgCN2,[166],"[122, 166]",ambiguous_multi
+MgCl2,"[164, 166]","[12, 51, 63, 115, 164, 166]",ambiguous_multi
+MgGeO3,[148],"[63, 221]",ambiguous_multi
+MgGeP2,[122],[122],single_matching
+MgH2,"[60, 136]",[136],ambiguous_multi
+MgI2,[164],[164],single_matching
+MgMoN2,[194],[194],single_matching
+MgPdF6,[148],[148],single_matching
+MgS,[225],"[216, 225]",ambiguous_multi
+MgSe,[216],"[186, 216, 225]",ambiguous_multi
+MgTe,"[186, 216]","[186, 194, 216, 225]",ambiguous_multi
+MnBr2,[164],[164],single_matching
+MnI2,[164],[164],single_matching
+MnO2,"[62, 87]","[164, 166]",ambiguous_multi
+MoBr3,[59],[59],single_matching
+MoF6,[229],[229],single_matching
+MoS2,[194],"[164, 194, 216]",ambiguous_multi
+MoSe2,[194],"[160, 164, 187, 194]",ambiguous_multi
+N2O5,[194],[194],single_matching
+NO2,[14],[199],single_different
+Na2AgAs,[63],[63],single_matching
+Na2CN2,[12],[12],single_matching
+Na2H4Pt,[139],[139],single_matching
+Na2H6Pt,[225],[225],single_matching
+Na2HgO2,[139],[139],single_matching
+Na2O,[225],"[58, 189, 225]",ambiguous_multi
+Na2O2,[189],[189],single_matching
+Na2PdS2,[36],[36],single_matching
+Na2PtS2,[36],[36],single_matching
+Na2PtSe2,[36],[36],single_matching
+Na2S,[225],"[194, 225]",ambiguous_multi
+Na2Se,[225],[225],single_matching
+Na2Te,[225],[225],single_matching
+Na3Sb,[194],[194],single_matching
+Na3SbSe4,[217],[217],single_matching
+NaAlSe2,[140],[140],single_matching
+NaAlTe2,[140],[140],single_matching
+NaBeAs,[194],[194],single_matching
+NaBr,[225],[225],single_matching
+NaCaAs,[216],[216],single_matching
+NaCrS2,[166],[166],single_matching
+NaCuO2,[12],[12],single_matching
+NaCuTe,[129],[129],single_matching
+NaH,[225],"[221, 225]",ambiguous_multi
+NaHF2,[166],"[1, 166]",ambiguous_multi
+NaHO,[63],"[4, 8, 11, 63, 160]",ambiguous_multi
+NaHS,[160],"[11, 160]",ambiguous_multi
+NaI,[225],"[141, 225]",ambiguous_multi
+NaInO2,[166],[166],single_matching
+NaLi2Bi,[225],[225],single_matching
+NaLi2Sb,[225],[225],single_matching
+NaLiS,[129],[129],single_matching
+NaMgAs,[129],[129],single_matching
+NaMgSb,[129],[129],single_matching
+NaN3,[166],"[12, 166]",ambiguous_multi
+NaNO2,[44],[44],single_matching
+NaNbSe2,[194],[194],single_matching
+NaP,[19],[19],single_matching
+NaPF6,[225],[225],single_matching
+NaPN2,[122],[122],single_matching
+NaRhO2,[166],[166],single_matching
+NaS,"[189, 194]","[189, 194]",ambiguous_multi
+NaSbF6,[225],[225],single_matching
+NaSrAs,[189],[189],single_matching
+NaSrP,[189],[189],single_matching
+NaYS2,[166],[166],single_matching
+NaZnAs,[129],"[129, 216]",ambiguous_multi
+NaZnP,[129],[129],single_matching
+Nb(SCl)2,[12],[12],single_matching
+Nb(SeCl)2,[2],[2],single_matching
+NbCl4,[12],[12],single_matching
+NbCu3S4,[215],[215],single_matching
+NbCu3Se4,[215],[215],single_matching
+NbFeSb,[216],[216],single_matching
+NbSbRu,[216],[216],single_matching
+Ni(AsO3)2,[162],[162],single_matching
+NiPtF6,[148],[148],single_matching
+P2Pd,[15],[15],single_matching
+P3N5,[15],"[15, 44]",ambiguous_multi
+PCl3,[62],[62],single_matching
+PI2,[2],[2],single_matching
+PI3,[173],[173],single_matching
+PNF2,[36],[36],single_matching
+PbBr2,[136],"[62, 136]",ambiguous_multi
+PbCl2,[62],[136],single_different
+PdF4,[43],[43],single_matching
+PdS2,[61],[61],single_matching
+PdSe2,[61],[61],single_matching
+PtCl2,[166],"[2, 58]",ambiguous_multi
+PtO2,"[58, 164, 186]","[164, 186]",ambiguous_multi
+PtS2,[164],[164],single_matching
+PtSe2,[164],[164],single_matching
+Rb2CaH4,[139],[139],single_matching
+Rb2GeF6,"[164, 225]","[164, 225]",ambiguous_multi
+Rb2H6Pt,[225],[225],single_matching
+Rb2HfF6,[164],[164],single_matching
+Rb2HgO2,[139],[139],single_matching
+Rb2MgF4,[139],[139],single_matching
+Rb2NiF6,[225],[225],single_matching
+Rb2NiO2,[139],[139],single_matching
+Rb2O,"[166, 225]","[71, 166, 225]",ambiguous_multi
+Rb2PtCl6,[225],[225],single_matching
+Rb2PtF6,[164],[164],single_matching
+Rb2PtS2,[71],[71],single_matching
+Rb2S,[225],[225],single_matching
+Rb2S3,[36],[36],single_matching
+Rb2Se,[225],[225],single_matching
+Rb2Se3,[36],[36],single_matching
+Rb2SeCl6,[225],[225],single_matching
+Rb2SiF6,[225],[225],single_matching
+Rb2SnBr6,[225],[225],single_matching
+Rb2Te,[225],"[62, 225]",ambiguous_multi
+Rb2TeBr6,[87],[87],single_matching
+Rb4I2O,[139],[139],single_matching
+RbAlF4,[123],"[59, 123, 127]",ambiguous_multi
+RbAu3Se2,[164],[164],single_matching
+RbAuO2,[63],[63],single_matching
+RbAuS,[63],[63],single_matching
+RbAuSe,[63],[63],single_matching
+RbBiO2,[15],[15],single_matching
+RbBr,[225],"[221, 225]",ambiguous_multi
+RbCaAs,[129],[129],single_matching
+RbCaF3,[221],[221],single_matching
+RbCaH3,[221],[221],single_matching
+RbCaSb,[129],[129],single_matching
+RbCdF3,[221],[221],single_matching
+RbCl,[225],"[221, 225]",ambiguous_multi
+RbF,[225],"[221, 225]",ambiguous_multi
+RbGaO2,[227],[227],single_matching
+RbH,[225],[225],single_matching
+RbHgF3,[221],[221],single_matching
+RbI,[225],"[221, 225]",ambiguous_multi
+RbLiBr2,[63],[63],single_matching
+RbLiCl2,[63],[63],single_matching
+RbLiS,[129],[129],single_matching
+RbLiSe,[129],[129],single_matching
+RbMgF3,[221],[221],single_matching
+RbMnF3,[221],[221],single_matching
+RbN3,[140],[123],single_different
+RbNO3,"[59, 167]","[155, 167]",ambiguous_multi
+RbNaO,[129],[129],single_matching
+RbNaS,[129],[129],single_matching
+RbPS3,[71],[71],single_matching
+RbS,"[71, 189]","[71, 189]",ambiguous_multi
+RbSb2,[12],[12],single_matching
+RbScO2,[194],"[166, 194]",ambiguous_multi
+RbSe,[189],[189],single_matching
+RbTe,[189],"[55, 216]",ambiguous_multi
+RbTeAu,[51],[51],single_matching
+RbTlO2,[166],[166],single_matching
+RbVF3,[221],[221],single_matching
+ReSe2,[2],[2],single_matching
+RhBr3,[12],[12],single_matching
+RhCl3,[12],[12],single_matching
+RhF3,[167],"[150, 167]",ambiguous_multi
+S(ClO)2,[43],[43],single_matching
+SBr,[41],[41],single_matching
+SO3,[14],[14],single_matching
+SbF3,[40],[40],single_matching
+SbO2F,[15],"[9, 15]",ambiguous_multi
+Sc2CCl2,[164],[164],single_matching
+Sc4C3,[220],[220],single_matching
+ScAgO2,[194],"[166, 194]",ambiguous_multi
+ScAgSe2,[164],[164],single_matching
+ScAuO2,[194],[194],single_matching
+ScCuO2,[194],"[166, 194]",ambiguous_multi
+ScCuS2,[156],[156],single_matching
+ScF3,[221],"[5, 221]",ambiguous_multi
+ScNiBi,[216],[216],single_matching
+ScNiSb,[216],[216],single_matching
+ScSbPd,[216],[216],single_matching
+ScSbPt,[216],[216],single_matching
+ScSnAu,[216],[216],single_matching
+SeBr,[41],[41],single_matching
+Si2N2O,[36],[36],single_matching
+Si3N4,[176],"[159, 220]",ambiguous_multi
+Si4P4Ru,[1],[1],single_matching
+SiC,"[156, 160, 186, 216]","[156, 160, 186, 216]",ambiguous_multi
+SiF4,[217],[217],single_matching
+SiH4,[14],[14],single_matching
+SiO2,"[9, 33, 40, 82, 96, 182]","[1, 3, 4, 5, 6, 7, 9, 20, 24, 33, 40, 46, 72, 82, 92, 96, 115, 116, 118, 122, 136, 148, 152, 154, 179, 180, 181, 182, 198, 224, 225, 227]",ambiguous_multi
+SiS2,[72],"[72, 122]",ambiguous_multi
+SiSe2,"[72, 140]",[72],ambiguous_multi
+SnCl2,[62],[62],single_matching
+SnF2,"[19, 92]","[19, 92]",ambiguous_multi
+SnO,"[64, 129]","[31, 129]",ambiguous_multi
+SnS2,[186],"[122, 164, 186]",ambiguous_multi
+SnSe,[225],"[62, 63, 225]",ambiguous_multi
+Sr(AlTe2)2,[97],[97],single_matching
+Sr(CdP)2,[164],[164],single_matching
+Sr(GaTe2)2,[97],[97],single_matching
+Sr(MgSb)2,[164],[164],single_matching
+Sr(ZnP)2,[164],[164],single_matching
+Sr2H6Ru,[225],[225],single_matching
+Sr2HN,[166],[166],single_matching
+Sr2MgH6,[164],[164],single_matching
+Sr2ZnN2,[139],[139],single_matching
+Sr3BiN,[221],[221],single_matching
+Sr4Sb2O,[139],[139],single_matching
+SrBrF,[129],[129],single_matching
+SrCN2,[166],[166],single_matching
+SrCl2,[225],[225],single_matching
+SrClF,[129],[129],single_matching
+SrH2,[62],[194],single_different
+SrHCl,[129],[129],single_matching
+SrHI,[129],[129],single_matching
+SrIF,[129],[129],single_matching
+SrMg2N2,[164],[164],single_matching
+SrP,[189],[189],single_matching
+SrS,[225],"[221, 225]",ambiguous_multi
+SrSe,[225],[225],single_matching
+SrTe,[225],"[221, 225]",ambiguous_multi
+SrTiN2,[129],[129],single_matching
+SrTiO3,[140],[221],single_different
+TaCu3S4,[215],[215],single_matching
+TaCu3Se4,[215],[215],single_matching
+TaCu3Te4,[215],[215],single_matching
+TaSbRu,[216],[216],single_matching
+TaTl3S4,[217],[217],single_matching
+TaTl3Se4,[217],[217],single_matching
+Te2Mo,[194],"[31, 187, 194]",ambiguous_multi
+TeO3,"[52, 167]","[52, 185, 194]",ambiguous_multi
+Ti(CuS)4,[121],[121],single_matching
+TiBrN,[59],[59],single_matching
+TiCoSb,[216],[216],single_matching
+TiNCl,[59],[59],single_matching
+TiO2,[12],"[12, 141, 152, 160, 166, 186, 194, 225]",ambiguous_multi
+TiS3,[11],[11],single_matching
+TiSnPt,[216],[216],single_matching
+TiTl2F6,[164],[164],single_matching
+Tl2SiF6,[225],[225],single_matching
+Tl2SnCl6,[225],[225],single_matching
+Tl2SnF6,[164],[164],single_matching
+Tl3AsS3,[160],[160],single_matching
+Tl3SbS3,[160],[160],single_matching
+Tl3VS4,[217],[217],single_matching
+TlAsF6,[148],[148],single_matching
+TlF,"[39, 57]","[57, 129, 225]",ambiguous_multi
+TlInS2,[194],"[1, 166]",ambiguous_multi
+TlSbF6,[166],[166],single_matching
+TlSbO3,[148],[182],single_different
+VCl2,[164],[164],single_matching
+VCu3S4,[215],[215],single_matching
+VCu3Se4,[215],[215],single_matching
+WS2,[194],"[164, 187, 194]",ambiguous_multi
+WSe2,[194],"[164, 187, 194]",ambiguous_multi
+Y2SO2,[164],[164],single_matching
+Y2SeO2,[164],"[139, 164]",ambiguous_multi
+YAgO2,[194],[194],single_matching
+YAgSe2,[8],[8],single_matching
+YBr3,[12],"[12, 194]",ambiguous_multi
+YCl3,[12],[12],single_matching
+YCuO2,"[166, 194]",[166],ambiguous_multi
+YHSe,[187],[187],single_matching
+YN,[225],"[194, 216]",ambiguous_multi
+YNiBi,[216],[216],single_matching
+YNiSb,[216],[216],single_matching
+YSF,[129],[129],single_matching
+Zn(GaS2)2,[121],"[82, 121]",ambiguous_multi
+Zn(GaSe2)2,[82],[82],single_matching
+Zn(GaTe2)2,[82],[82],single_matching
+Zn(InSe2)2,[82],"[82, 121]",ambiguous_multi
+Zn2GeSe4,[121],[121],single_matching
+ZnCl2,"[33, 122]","[33, 122, 137]",ambiguous_multi
+ZnF2,"[60, 136]",[136],ambiguous_multi
+ZnO,[216],"[186, 216, 225]",ambiguous_multi
+ZnPdF6,[148],[148],single_matching
+ZnPtF6,[148],[148],single_matching
+ZnS,"[156, 160, 186]","[156, 160, 186, 216]",ambiguous_multi
+ZnSe,[186],"[129, 186, 216]",ambiguous_multi
+ZnSiAs2,[122],[122],single_matching
+ZnSiP2,[122],[122],single_matching
+ZnSnF6,[148],[148],single_matching
+ZnSnP2,[122],[122],single_matching
+ZnTe,[186],"[186, 216]",ambiguous_multi

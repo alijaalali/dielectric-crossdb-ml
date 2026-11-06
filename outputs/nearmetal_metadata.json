@@ -1,0 +1,25 @@
+{
+  "n_near_metal_matched": 450,
+  "n_non_metal_matched": 4256,
+  "n_near_metal_with_mbj": 312,
+  "n_near_metal_mbj_still_below_0.1": 227,
+  "n_near_metal_mbj_above_0.1": 85,
+  "frac_near_metal_mbj_reclassified_semiconductor_pct": 27.24358974358974,
+  "median_mbj_bandgap_near_metal_subset": 0.0,
+  "frac_near_metal_magnetic_pct": 35.15439429928741,
+  "frac_non_metal_magnetic_pct": 7.2751322751322745,
+  "median_eps_anisotropy_near_metal": 1.3836229129677922,
+  "median_eps_anisotropy_non_metal": 1.0647192669635264,
+  "frac_near_metal_aniso_gt10_pct": 0.2347417840375587,
+  "frac_non_metal_aniso_gt10_pct": 0.2457002457002457,
+  "median_ehull_near_metal": 1.59335,
+  "median_ehull_non_metal": 1.24735,
+  "near_metal_func_value_counts": {
+    "OptB88vdW": 450
+  },
+  "non_metal_func_value_counts": {
+    "OptB88vdW": 4256
+  },
+  "median_encut_near_metal": 700.0,
+  "median_encut_non_metal": 850.0
+}

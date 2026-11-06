@@ -1,0 +1,24 @@
+{
+  "n_held_out": 942,
+  "n_near_metal": 82,
+  "n_non_metal": 860,
+  "internal_mae_near_metal": 0.42959627733273886,
+  "internal_mae_non_metal": 0.1919364470085823,
+  "external_mae_near_metal": 0.7072478760216268,
+  "external_mae_non_metal": 0.17666284435633023,
+  "paired_bootstrap_diff_near_metal": {
+    "mean": 0.2776112476744511,
+    "ci95": [
+      0.1957697772806433,
+      0.36166496444078383
+    ]
+  },
+  "paired_bootstrap_diff_non_metal": {
+    "mean": -0.01527597553677043,
+    "ci95": [
+      -0.027191782684090574,
+      -0.0037847230456988503
+    ]
+  },
+  "n_boot": 10000
+}

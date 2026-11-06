@@ -1,0 +1,20 @@
+{
+  "n_total": 4706,
+  "n_calibration": 2353,
+  "n_heldout": 2353,
+  "offset_mean_log10_estimated_on_calibration_half": -0.14597410155967686,
+  "offset_median_log10_estimated_on_calibration_half": -0.05395641321432343,
+  "raw_unit_multiplicative_factor_from_mean_offset": 1.3995038629628063,
+  "heldout_uncorrected": {
+    "mae": 0.22261128272648467,
+    "rmse": 0.38956934748480304
+  },
+  "heldout_corrected_mean_offset": {
+    "mae": 0.2362232560202918,
+    "rmse": 0.3647726734251719
+  },
+  "heldout_corrected_median_offset": {
+    "mae": 0.21736071366822557,
+    "rmse": 0.3740124839232459
+  }
+}

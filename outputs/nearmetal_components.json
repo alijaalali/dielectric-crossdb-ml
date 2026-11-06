@@ -1,0 +1,27 @@
+{
+  "e_electronic": {
+    "overall_r2": 0.32910821412237246,
+    "overall_mae": 0.17795320745218735,
+    "n_near_metal": 450,
+    "n_non_metal": 4256,
+    "mae_near_metal": 0.7767255231283603,
+    "mae_non_metal": 0.11464316467627622,
+    "r2_near_metal": -1.9045120063013812,
+    "r2_non_metal": 0.4913641290620605,
+    "frac_rows_near_metal_pct": 9.562260943476412,
+    "frac_abs_error_near_metal_pct": 41.73710741126803
+  },
+  "e_ionic": {
+    "overall_r2": 0.41762607071255264,
+    "overall_mae": 0.2822055176047516,
+    "n_near_metal": 450,
+    "n_non_metal": 4256,
+    "mae_near_metal": 0.4834278248987688,
+    "mae_non_metal": 0.2609296627451868,
+    "r2_near_metal": 0.026009314671013084,
+    "r2_non_metal": 0.47235001424057854,
+    "frac_rows_near_metal_pct": 9.562260943476412,
+    "frac_abs_error_near_metal_pct": 16.380484153019328
+  },
+  "e_total_reference": {}
+}

@@ -1,0 +1,27 @@
+{
+  "n_composition_overlap_formulas": 1989,
+  "n_structure_covered_formulas": 622,
+  "label_counts": {
+    "single_matching": 458,
+    "ambiguous_multi": 144,
+    "single_different": 20
+  },
+  "mae_by_polymorph_label": {
+    "single_matching": {
+      "n": 495,
+      "mae": 0.11766513141858907
+    },
+    "single_different": {
+      "n": 20,
+      "mae": 0.2650738471714994
+    },
+    "ambiguous_multi": {
+      "n": 535,
+      "mae": 0.17671147381038102
+    },
+    "composition_novel_no_overlap": {
+      "n": 1797,
+      "mae": 0.27024259007427104
+    }
+  }
+}

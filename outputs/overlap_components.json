@@ -1,0 +1,21 @@
+{
+  "n_overlap_formulas": 1989,
+  "e_electronic": {
+    "n_paired": 1989,
+    "median_log_ratio_jv_over_mp": 0.03317145200297182,
+    "iqr_log_ratio": [
+      0.008358367418756379,
+      0.09933409556551473
+    ],
+    "mae_log_ratio": 0.03657027743606371
+  },
+  "e_ionic": {
+    "n_paired": 1989,
+    "median_log_ratio_jv_over_mp": 0.037936988725678474,
+    "iqr_log_ratio": [
+      -0.03653394425621934,
+      0.16779280155183335
+    ],
+    "mae_log_ratio": 0.09449711242979478
+  }
+}

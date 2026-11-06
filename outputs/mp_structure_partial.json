@@ -1,0 +1,20 @@
+{
+  "n_our_unique": 7320,
+  "n_petousis_bundled": 1056,
+  "n_overlap": 1010,
+  "composition_only": {
+    "n": 202,
+    "mae": 0.09938197783425556,
+    "rmse": 0.1624138689049275,
+    "r2": 0.6576724247853729
+  },
+  "composition_plus_structure": {
+    "n": 202,
+    "mae": 0.09149332977175714,
+    "rmse": 0.15228079401722305,
+    "r2": 0.699055836321892
+  },
+  "n_train": 808,
+  "n_test": 202,
+  "n_structure_covered_overlap_formulas": 622
+}
